@@ -1,8 +1,9 @@
 # 100 Days Of Code - Log
 
-The log of my #100DaysOfCode challenge. Started on [December 9, Thursday, 2021].
+The log of my #100DaysOfCode challenge. 
+Started on [December 9, Thursday, 2021].
 
-### Day 0: December 9, 2021
+### Day 0: freecodecamp Basic HTML and HTML5 28/28
 
 **Today's Progress**: 
 1. Vim: Learn about the :substitute (:s) command.
@@ -10,15 +11,35 @@ The log of my #100DaysOfCode challenge. Started on [December 9, Thursday, 2021].
 3. Review the basic components in a HTML form, like label&radio.
 4. Import [GoogleFonts](https://fonts.google.com/) instead of using locals. 
 
-**For tomorrow's review:**:
-
+**For tomorrow's review**:
 1. Code this
 
-  ![image-20211209181130008](https://s2.loli.net/2021/12/09/FB5kiEXswu4Gmgn.png)
+    ![image-20211209181130008](https://s2.loli.net/2021/12/09/FB5kiEXswu4Gmgn.png)
 
-2. 
+### Day 1: freecodecamp Basic CSS 27/44
 
-3. 
+**Today's Progress**
+1. Negative margins to further grow the box.
+2. Attribute selector.
+    ```css
+      [type="checkbox"]{background:blue;} 
+    ```
+3. ColorHexa
+    | Color<br>case-insensitive | Short Hex Code |
+    | :-: | :-: |
+    | Red | #F00 |
+    | Yellow | #FF0 |
+    | Green | #0F0 |
+    | Cyan | #0FF |
+    | Blue | #00F |
+    | Fuchsia | #F0F |
+
+4. 
+
+**For tomorrow's review**:
+1. CSS selectors includes: ...
+2. What's the precedence order of CSS styling?
+    **!important**>inline>id>class>tag>top-bottom order
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
