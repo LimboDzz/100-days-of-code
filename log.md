@@ -5,41 +5,60 @@ Started on [December 9, Thursday, 2021].
 
 ### Day 0: freecodecamp Basic HTML and HTML5 28/28
 
-**Today's Progress**: 
+**Today's Progress**
+
 1. Vim: Learn about the :substitute (:s) command.
 2. Have a preliminary knowledge of Bootstrap.
 3. Review the basic components in a HTML form, like label&radio.
 4. Import [GoogleFonts](https://fonts.google.com/) instead of using locals. 
 
-**For tomorrow's review**:
+**For tomorrow's review**
+
 1. Code this
 
     ![image-20211209181130008](https://s2.loli.net/2021/12/09/FB5kiEXswu4Gmgn.png)
 
-### Day 1: freecodecamp Basic CSS 27/44
+### Day 1: freecodecamp Basic CSS 31/44
 
 **Today's Progress**
 1. Negative margins to further grow the box.
 2. Attribute selector.
+
     ```css
       [type="checkbox"]{background:blue;} 
     ```
 3. ColorHexa
+
     | Color<br>case-insensitive | Short Hex Code |
-    | :-: | :-: |
-    | Red | #F00 |
-    | Yellow | #FF0 |
-    | Green | #0F0 |
-    | Cyan | #0FF |
-    | Blue | #00F |
-    | Fuchsia | #F0F |
+    | :-----------------------: | :------------: |
+    |            Red            |      #F00      |
+    |          Yellow           |      #FF0      |
+    |           Green           |      #0F0      |
+    |           Cyan            |      #0FF      |
+    |           Blue            |      #00F      |
+    |          Fuchsia          |      #F0F      |
 
-4. 
+**For tomorrow's review**
 
-**For tomorrow's review**:
-1. CSS selectors includes: ...
+1. CSS selectors includes: 
+    
+    id/class/tag/attr/pseudo-class selector 
+
 2. What's the precedence order of CSS styling?
+
     **!important**>inline>id>class>tag>top-bottom order
+
+### Day2: freecodecamp Basic CSS 44/44
+
+**Today's Progress**
+1. 
+2. 
+3. 
+
+**For tomorrow's review**
+1. 
+2. 
+3. 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
