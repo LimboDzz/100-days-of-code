@@ -27,8 +27,9 @@ Started on [December 9, Thursday, 2021].
     ```css
       [type="checkbox"]{background:blue;} 
     ```
-3. ColorHexa
 
+3. ColorHexa
+   
     | Color<br>case-insensitive | Short Hex Code |
     | :-----------------------: | :------------: |
     |            Red            |      #F00      |
@@ -51,12 +52,38 @@ Started on [December 9, Thursday, 2021].
 ### Day2: freecodecamp Basic CSS 44/44
 
 **Today's Progress**
-1. 
-2. 
-3. 
+1. How css variables plays a role in media queries.
+2. Tags and corresponding text-altering styles.
+   
+    ```html
+    <strong>font-size: bold;</strong>
+    <em>font-style: italic;</em>
+    <u>font-decoration: underline;</u>
+    <s>font-decoration: line-through;</s>
+    ```
 
 **For tomorrow's review**
-1. 
+1. Code this
+    
+    ![A Card](https://s2.loli.net/2021/12/11/h3WS5VmJdnAlyfH.png)
+
+    ```html
+    <style></style>
+    <div class="fullCard" id="thumbnail">
+        <div class="cardContent">
+            <div class="cardText">
+                <h4>Alphabet</h4>
+                <hr>
+                <p><em>Google was founded by Larry Page and Sergey Brin while they were <u>Ph.D. students</u> at <strong>Stanford University</strong>.</em></p>
+            </div>
+            <div class="cardLinks">
+                <a href="https://en.wikipedia.org/wiki/Larry_Page" target="_blank" class="links">Larry Page</a><br><br>
+                <a href="https://en.wikipedia.org/wiki/Sergey_Brin" target="_blank" class="links">Sergey Brin</a>
+            </div>
+        </div>
+    </div>
+    ```
+
 2. 
 3. 
 
