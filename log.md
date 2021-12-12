@@ -90,8 +90,23 @@ Started on [December 9, Thursday, 2021].
     </div>
     ```
 
+### Day 3: freecodecamp review
+
+**Today's Progress**
+1. Review previous learnt points by coding.
+
+
+
+### Day 4: freecodecamp
+
+**Today's Progress**
+1. 
 2. 
 3. 
+
+**For tomorrow's review**
+
+
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
