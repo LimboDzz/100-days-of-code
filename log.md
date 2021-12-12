@@ -13,8 +13,11 @@ Started on [December 9, Thursday, 2021].
 4. Import [GoogleFonts](https://fonts.google.com/) instead of using locals. 
 
 **For tomorrow's review**
-
-1. Code this
+1. Code a grid with 4 cols in large screen and 2 cols in smaller one.
+    ```html
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    ```
+2. Code this
 
     ![image-20211209181130008](https://s2.loli.net/2021/12/09/FB5kiEXswu4Gmgn.png)
 
@@ -68,6 +71,9 @@ Started on [December 9, Thursday, 2021].
     ![A Card](https://s2.loli.net/2021/12/11/h3WS5VmJdnAlyfH.png)
 
     ```html
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sofia&display=swap" rel="stylesheet"> 
     <style></style>
     <div class="fullCard" id="thumbnail">
         <div class="cardContent">
