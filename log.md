@@ -79,7 +79,7 @@ Started on [December 9, Thursday, 2021].
 
 1. Review previous learnt points by coding.
 
-### Day 4: freecodecamp
+### Day 4: freecodecamp Applied Visual Design 29/52
 
 **Today's Progress**
 
@@ -112,7 +112,21 @@ Started on [December 9, Thursday, 2021].
 
 6. Code this - [Striped Elem](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element)
 
-    ![](https://s2.loli.net/2021/12/14/ZRVnL3SHUjXTJ6i.png)
+    ![Striped pattern](https://s2.loli.net/2021/12/14/ZRVnL3SHUjXTJ6i.png)
+
+### Day 5: freecodecamp Applied Visual Design ?/52
+
+**Today's Progress**
+1. 
+2. 
+3. 
+
+**For tomorrow's review**
+1. 
+2. 
+3. 
+
+### Day 6: freecodecamp Applied Accessibility ?/22
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
