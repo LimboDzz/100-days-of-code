@@ -106,6 +106,7 @@ Started on [December 9, Thursday, 2021].
 3. What is split-complement scheme? Give an example.
 4. Use hsl(?, ?, ?) for a incessantly color-changing effect (with a pinch of javascript). Try single-factor altering, namely h/s/l one at a time.
 5. Code this - [Linear Gradient](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-gradual-css-linear-gradient)
+6. CSS angle unit(full circle): 360deg, 1turn, ?rad, 400grad;
 
     ![Gradient-coloring](https://s2.loli.net/2021/12/14/zfuKGZUebLDc7xg.png)
 
