@@ -52,7 +52,7 @@ Started on [December 9, Thursday, 2021].
 
     **!important**>inline>id>class>tag>top-bottom order
 
-### Day2: freecodecamp Basic CSS 44/44
+### Day2: freecodecamp Basic CSS 44/44 + Applied Visual Design 11/52
 
 **Today's Progress**
 1. How css variables plays a role in media queries.
@@ -95,13 +95,20 @@ Started on [December 9, Thursday, 2021].
 **Today's Progress**
 1. Review previous learnt points by coding.
 
-
-
 ### Day 4: freecodecamp
 
 **Today's Progress**
-1. 
-2. 
+1. More about positioning
+    eg.relative/absolute/fixed/**sticky**
+    ```css
+    .sticky {
+        background-color: lavender;
+        position: sticky;
+        left: 140px;
+        top: 150px;
+    }
+    ```
+2. On how to center an elm vertically if the use of padding and line-height is out of the question.
 3. 
 
 **For tomorrow's review**
