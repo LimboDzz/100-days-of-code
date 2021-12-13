@@ -13,6 +13,7 @@ Started on [December 9, Thursday, 2021].
 4. Import [GoogleFonts](https://fonts.google.com/) instead of using locals. 
 
 **For tomorrow's review**
+
 1. Code a grid with 4 cols in large screen and 2 cols in smaller one.
     ```html
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -55,6 +56,7 @@ Started on [December 9, Thursday, 2021].
 ### Day2: freecodecamp Basic CSS 44/44 + Applied Visual Design 11/52
 
 **Today's Progress**
+
 1. How css variables plays a role in media queries.
 2. Tags and corresponding text-altering styles.
    
@@ -66,6 +68,7 @@ Started on [December 9, Thursday, 2021].
     ```
 
 **For tomorrow's review**
+
 1. Code this
     
     ![A Card](https://s2.loli.net/2021/12/11/h3WS5VmJdnAlyfH.png)
@@ -93,13 +96,16 @@ Started on [December 9, Thursday, 2021].
 ### Day 3: freecodecamp review
 
 **Today's Progress**
+
 1. Review previous learnt points by coding.
 
 ### Day 4: freecodecamp
 
 **Today's Progress**
+
 1. More about positioning
     eg.relative/absolute/fixed/**sticky**
+
     ```css
     .sticky {
         background-color: lavender;
@@ -108,10 +114,13 @@ Started on [December 9, Thursday, 2021].
         top: 150px;
     }
     ```
+
 2. On how to center an elm vertically if the use of padding and line-height is out of the question.
 3. 
 
 **For tomorrow's review**
+
+1. Use position and flex box repectively to center an elm vertically.
 
 
 
