@@ -69,29 +69,9 @@ Started on [December 9, Thursday, 2021].
 
 **For tomorrow's review**
 
-1. Code this
+1. Code this - [Card](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element)
     
     ![A Card](https://s2.loli.net/2021/12/11/h3WS5VmJdnAlyfH.png)
-
-    ```html
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Sofia&display=swap" rel="stylesheet"> 
-    <style></style>
-    <div class="fullCard" id="thumbnail">
-        <div class="cardContent">
-            <div class="cardText">
-                <h4>Alphabet</h4>
-                <hr>
-                <p><em>Google was founded by Larry Page and Sergey Brin while they were <u>Ph.D. students</u> at <strong>Stanford University</strong>.</em></p>
-            </div>
-            <div class="cardLinks">
-                <a href="https://en.wikipedia.org/wiki/Larry_Page" target="_blank" class="links">Larry Page</a><br><br>
-                <a href="https://en.wikipedia.org/wiki/Sergey_Brin" target="_blank" class="links">Sergey Brin</a>
-            </div>
-        </div>
-    </div>
-    ```
 
 ### Day 3: freecodecamp review
 
@@ -117,14 +97,21 @@ Started on [December 9, Thursday, 2021].
 
 2. On how to center an elm vertically if the use of padding and line-height is out of the question.
 3. Introduced to some color terminology and schemes to make sites more appealing.
+4. Give a touch of smooth transition and integration of colors.
 
 **For tomorrow's review**
 
 1. Use position and flex box repectively to center an elm vertically.
 2. What is a tertiary color?
 3. What is split-complement scheme? Give an example.
-4. Use hsl(?, ?, ?) for a incessantly color-changing effect (with a pinch of javascript).
+4. Use hsl(?, ?, ?) for a incessantly color-changing effect (with a pinch of javascript). Try single-factor altering, namely h/s/l one at a time.
+5. Code this - [Linear Gradient](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-gradual-css-linear-gradient)
 
+    ![Gradient-coloring](https://s2.loli.net/2021/12/14/zfuKGZUebLDc7xg.png)
+
+6. Code this - [Striped Elem](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element)
+
+    ![](https://s2.loli.net/2021/12/14/ZRVnL3SHUjXTJ6i.png)
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
