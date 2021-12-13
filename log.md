@@ -116,18 +116,21 @@ Started on [December 9, Thursday, 2021].
     ```
 
 2. On how to center an elm vertically if the use of padding and line-height is out of the question.
-3. 
+3. Introduced to some color terminology and schemes to make sites more appealing.
 
 **For tomorrow's review**
 
 1. Use position and flex box repectively to center an elm vertically.
-
+2. What is a tertiary color?
+3. What is split-complement scheme? Give an example.
+4. Use hsl(?, ?, ?) for a incessantly color-changing effect (with a pinch of javascript).
 
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
+
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
