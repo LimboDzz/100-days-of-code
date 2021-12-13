@@ -128,6 +128,126 @@ Started on [December 9, Thursday, 2021].
 
 ### Day 6: freecodecamp Applied Accessibility ?/22
 
+**Today's Progress**
+1. 
+2. 
+3. 
+
+**For tomorrow's review**
+1. 
+2. 
+3. 
+
+### Day 7: freecodecamp Applied Accessibility ?/22
+
+**Today's Progress**
+1. 
+2. 
+3. 
+
+**For tomorrow's review**
+1. 
+2. 
+3. 
+### Day 8: freecodecamp Applied Accessibility ?/22
+
+**Today's Progress**
+1. 
+2. 
+3. 
+
+**For tomorrow's review**
+1. 
+2. 
+3. 
+### Day 9: freecodecamp Applied Accessibility ?/22
+
+**Today's Progress**
+1. 
+2. 
+3. 
+
+**For tomorrow's review**
+1. 
+2. 
+3. 
+### Day 10: freecodecamp Applied Accessibility ?/22
+
+**Today's Progress**
+1. 
+2. 
+3. 
+
+**For tomorrow's review**
+1. 
+2. 
+3. 
+### Day 11: freecodecamp Applied Accessibility ?/22
+
+**Today's Progress**
+1. 
+2. 
+3. 
+
+**For tomorrow's review**
+1. 
+2. 
+3. 
+### Day 12: freecodecamp Applied Accessibility ?/22
+
+**Today's Progress**
+1. 
+2. 
+3. 
+
+**For tomorrow's review**
+1. 
+2. 
+3. 
+### Day 13: freecodecamp Applied Accessibility ?/22
+
+**Today's Progress**
+1. 
+2. 
+3. 
+
+**For tomorrow's review**
+1. 
+2. 
+3. 
+### Day 14: freecodecamp Applied Accessibility ?/22
+
+**Today's Progress**
+1. 
+2. 
+3. 
+
+**For tomorrow's review**
+1. 
+2. 
+3. 
+### Day 15: freecodecamp Applied Accessibility ?/22
+
+**Today's Progress**
+1. 
+2. 
+3. 
+
+**For tomorrow's review**
+1. 
+2. 
+3. 
+### Day 16: freecodecamp Applied Accessibility ?/22
+
+**Today's Progress**
+1. 
+2. 
+3. 
+
+**For tomorrow's review**
+1. 
+2. 
+3. 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
