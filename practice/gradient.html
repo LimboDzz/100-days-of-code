@@ -9,21 +9,23 @@
     </head>
     <style>
         .container {
-            height: 300px;
-            overflow: auto;
+            padding: 0 10vw;
+            height: 400px;
+            position:relative;
         }
 
         .sticky {
-            position: sticky;
             width: 80%;
-            margin: 0 auto;
             height: 100px;
-            top: 100px;
             background: repeating-linear-gradient(35deg,
                     yellow 0,
                     yellow 40px,
                     black 40px,
                     black 80px);
+            transform: translate(-50%,-50%);
+            position: absolute;
+            top: 50%;
+            left: 50%;
         }
     </style>
 

@@ -3,7 +3,7 @@
 The log of my #100DaysOfCode challenge. 
 Started on [December 9, Thursday, 2021].
 
-### Day 0: freecodecamp Basic HTML and HTML5 28/28
+## Day 0: freecodecamp Basic HTML and HTML5 28/28
 
 **Today's Progress**
 
@@ -22,7 +22,7 @@ Started on [December 9, Thursday, 2021].
 
     ![image-20211209181130008](https://s2.loli.net/2021/12/09/FB5kiEXswu4Gmgn.png)
 
-### Day 1: freecodecamp Basic CSS 31/44
+## Day 1: freecodecamp Basic CSS 31/44
 
 **Today's Progress**
 1. Negative margins to further grow the box.
@@ -53,7 +53,7 @@ Started on [December 9, Thursday, 2021].
 
     **!important**>inline>id>class>tag>top-bottom order
 
-### Day2: freecodecamp Basic CSS 44/44 + Applied Visual Design 11/52
+## Day2: freecodecamp Basic CSS 44/44 + Applied Visual Design 11/52
 
 **Today's Progress**
 
@@ -73,13 +73,13 @@ Started on [December 9, Thursday, 2021].
     
     ![A Card](https://s2.loli.net/2021/12/11/h3WS5VmJdnAlyfH.png)
 
-### Day 3: freecodecamp review
+## Day 3: freecodecamp review
 
 **Today's Progress**
 
 1. Review previous learnt points by coding.
 
-### Day 4: freecodecamp Applied Visual Design 29/52
+## Day 4: freecodecamp Applied Visual Design 29/52
 
 **Today's Progress**
 
@@ -114,7 +114,7 @@ Started on [December 9, Thursday, 2021].
 
     ![Striped pattern](https://s2.loli.net/2021/12/14/ZRVnL3SHUjXTJ6i.png)
 
-### Day 5: freecodecamp Applied Visual Design ?/52
+## Day 5: freecodecamp Applied Visual Design ?/52
 
 **Today's Progress**
 1. 
@@ -126,7 +126,7 @@ Started on [December 9, Thursday, 2021].
 2. 
 3. 
 
-### Day 6: freecodecamp Applied Accessibility ?/22
+## Day 6: freecodecamp Applied Accessibility ?/22
 
 **Today's Progress**
 1. 
@@ -138,7 +138,7 @@ Started on [December 9, Thursday, 2021].
 2. 
 3. 
 
-### Day 7: freecodecamp Applied Accessibility ?/22
+## Day 7: freecodecamp Applied Accessibility ?/22
 
 **Today's Progress**
 1. 
@@ -149,7 +149,7 @@ Started on [December 9, Thursday, 2021].
 1. 
 2. 
 3. 
-### Day 8: freecodecamp Applied Accessibility ?/22
+## Day 8: freecodecamp Applied Accessibility ?/22
 
 **Today's Progress**
 1. 
@@ -160,7 +160,7 @@ Started on [December 9, Thursday, 2021].
 1. 
 2. 
 3. 
-### Day 9: freecodecamp Applied Accessibility ?/22
+## Day 9: freecodecamp Applied Accessibility ?/22
 
 **Today's Progress**
 1. 
@@ -171,7 +171,7 @@ Started on [December 9, Thursday, 2021].
 1. 
 2. 
 3. 
-### Day 10: freecodecamp Applied Accessibility ?/22
+## Day 10: freecodecamp Applied Accessibility ?/22
 
 **Today's Progress**
 1. 
@@ -182,7 +182,7 @@ Started on [December 9, Thursday, 2021].
 1. 
 2. 
 3. 
-### Day 11: freecodecamp Applied Accessibility ?/22
+## Day 11: freecodecamp Applied Accessibility ?/22
 
 **Today's Progress**
 1. 
@@ -193,7 +193,7 @@ Started on [December 9, Thursday, 2021].
 1. 
 2. 
 3. 
-### Day 12: freecodecamp Applied Accessibility ?/22
+## Day 12: freecodecamp Applied Accessibility ?/22
 
 **Today's Progress**
 1. 
@@ -204,7 +204,7 @@ Started on [December 9, Thursday, 2021].
 1. 
 2. 
 3. 
-### Day 13: freecodecamp Applied Accessibility ?/22
+## Day 13: freecodecamp Applied Accessibility ?/22
 
 **Today's Progress**
 1. 
@@ -215,7 +215,7 @@ Started on [December 9, Thursday, 2021].
 1. 
 2. 
 3. 
-### Day 14: freecodecamp Applied Accessibility ?/22
+## Day 14: freecodecamp Applied Accessibility ?/22
 
 **Today's Progress**
 1. 
@@ -226,7 +226,7 @@ Started on [December 9, Thursday, 2021].
 1. 
 2. 
 3. 
-### Day 15: freecodecamp Applied Accessibility ?/22
+## Day 15: freecodecamp Applied Accessibility ?/22
 
 **Today's Progress**
 1. 
@@ -237,7 +237,7 @@ Started on [December 9, Thursday, 2021].
 1. 
 2. 
 3. 
-### Day 16: freecodecamp Applied Accessibility ?/22
+## Day 16: freecodecamp Applied Accessibility ?/22
 
 **Today's Progress**
 1. 
@@ -248,20 +248,8 @@ Started on [December 9, Thursday, 2021].
 1. 
 2. 
 3. 
-<!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
+<!-- ## Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -269,4 +257,10 @@ Started on [December 9, Thursday, 2021].
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) --> 
+
+## Challenges
+1. Code this
+
+    ![Color Wheel](https://s2.loli.net/2021/12/14/qUhASpZLg6lY1js.png)
+
