@@ -114,17 +114,11 @@ Started on [December 9, Thursday, 2021].
 
     ![Striped pattern](https://s2.loli.net/2021/12/14/ZRVnL3SHUjXTJ6i.png)
 
-## Day 5: freecodecamp Applied Visual Design ?/52
+## Day 5: freecodecamp Applied Visual Design 29/52
 
 ### **Today's Progress**
-1. 
-2. 
-3. 
 
-### **For tomorrow's review**
-1. 
-2. 
-3. 
+1. Review what have been learnt so far.
 
 ## Day 6: freecodecamp Applied Accessibility ?/22
 
