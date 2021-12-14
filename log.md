@@ -5,14 +5,14 @@ Started on [December 9, Thursday, 2021].
 
 ## Day 0: freecodecamp Basic HTML and HTML5 28/28
 
-**Today's Progress**
+### **Today's Progress**
 
 1. Vim: Learn about the :substitute (:s) command.
 2. Have a preliminary knowledge of Bootstrap.
 3. Review the basic components in a HTML form, like label&radio.
 4. Import [GoogleFonts](https://fonts.google.com/) instead of using locals. 
 
-**For tomorrow's review**
+### **For tomorrow's review**
 
 1. Code a grid with 4 cols in large screen and 2 cols in smaller one.
     ```html
@@ -24,7 +24,7 @@ Started on [December 9, Thursday, 2021].
 
 ## Day 1: freecodecamp Basic CSS 31/44
 
-**Today's Progress**
+### **Today's Progress**
 1. Negative margins to further grow the box.
 2. Attribute selector.
 
@@ -43,7 +43,7 @@ Started on [December 9, Thursday, 2021].
     |           Blue            |      #00F      |
     |          Fuchsia          |      #F0F      |
 
-**For tomorrow's review**
+### **For tomorrow's review**
 
 1. CSS selectors includes: 
     
@@ -55,7 +55,7 @@ Started on [December 9, Thursday, 2021].
 
 ## Day2: freecodecamp Basic CSS 44/44 + Applied Visual Design 11/52
 
-**Today's Progress**
+### **Today's Progress**
 
 1. How css variables plays a role in media queries.
 2. Tags and corresponding text-altering styles.
@@ -67,7 +67,7 @@ Started on [December 9, Thursday, 2021].
     <s>font-decoration: line-through;</s>
     ```
 
-**For tomorrow's review**
+### **For tomorrow's review**
 
 1. Code this - [Card](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element)
     
@@ -75,13 +75,13 @@ Started on [December 9, Thursday, 2021].
 
 ## Day 3: freecodecamp review
 
-**Today's Progress**
+### **Today's Progress**
 
 1. Review previous learnt points by coding.
 
 ## Day 4: freecodecamp Applied Visual Design 29/52
 
-**Today's Progress**
+### **Today's Progress**
 
 1. More about positioning
     eg.relative/absolute/fixed/**sticky**
@@ -99,7 +99,7 @@ Started on [December 9, Thursday, 2021].
 3. Introduced to some color terminology and schemes to make sites more appealing.
 4. Give a touch of smooth transition and integration of colors.
 
-**For tomorrow's review**
+### **For tomorrow's review**
 
 1. Use position and flex box repectively to center an elm vertically.
 2. What is a tertiary color?
@@ -116,146 +116,146 @@ Started on [December 9, Thursday, 2021].
 
 ## Day 5: freecodecamp Applied Visual Design ?/52
 
-**Today's Progress**
+### **Today's Progress**
 1. 
 2. 
 3. 
 
-**For tomorrow's review**
+### **For tomorrow's review**
 1. 
 2. 
 3. 
 
 ## Day 6: freecodecamp Applied Accessibility ?/22
 
-**Today's Progress**
+### **Today's Progress**
 1. 
 2. 
 3. 
 
-**For tomorrow's review**
+### **For tomorrow's review**
 1. 
 2. 
 3. 
 
 ## Day 7: freecodecamp Applied Accessibility ?/22
 
-**Today's Progress**
+### **Today's Progress**
 1. 
 2. 
 3. 
 
-**For tomorrow's review**
+### **For tomorrow's review**
 1. 
 2. 
 3. 
 ## Day 8: freecodecamp Applied Accessibility ?/22
 
-**Today's Progress**
+### **Today's Progress**
 1. 
 2. 
 3. 
 
-**For tomorrow's review**
+### **For tomorrow's review**
 1. 
 2. 
 3. 
 ## Day 9: freecodecamp Applied Accessibility ?/22
 
-**Today's Progress**
+### **Today's Progress**
 1. 
 2. 
 3. 
 
-**For tomorrow's review**
+### **For tomorrow's review**
 1. 
 2. 
 3. 
 ## Day 10: freecodecamp Applied Accessibility ?/22
 
-**Today's Progress**
+### **Today's Progress**
 1. 
 2. 
 3. 
 
-**For tomorrow's review**
+### **For tomorrow's review**
 1. 
 2. 
 3. 
 ## Day 11: freecodecamp Applied Accessibility ?/22
 
-**Today's Progress**
+### **Today's Progress**
 1. 
 2. 
 3. 
 
-**For tomorrow's review**
+### **For tomorrow's review**
 1. 
 2. 
 3. 
 ## Day 12: freecodecamp Applied Accessibility ?/22
 
-**Today's Progress**
+### **Today's Progress**
 1. 
 2. 
 3. 
 
-**For tomorrow's review**
+### **For tomorrow's review**
 1. 
 2. 
 3. 
 ## Day 13: freecodecamp Applied Accessibility ?/22
 
-**Today's Progress**
+### **Today's Progress**
 1. 
 2. 
 3. 
 
-**For tomorrow's review**
+### **For tomorrow's review**
 1. 
 2. 
 3. 
 ## Day 14: freecodecamp Applied Accessibility ?/22
 
-**Today's Progress**
+### **Today's Progress**
 1. 
 2. 
 3. 
 
-**For tomorrow's review**
+### **For tomorrow's review**
 1. 
 2. 
 3. 
 ## Day 15: freecodecamp Applied Accessibility ?/22
 
-**Today's Progress**
+### **Today's Progress**
 1. 
 2. 
 3. 
 
-**For tomorrow's review**
+### **For tomorrow's review**
 1. 
 2. 
 3. 
 ## Day 16: freecodecamp Applied Accessibility ?/22
 
-**Today's Progress**
+### **Today's Progress**
 1. 
 2. 
 3. 
 
-**For tomorrow's review**
+### **For tomorrow's review**
 1. 
 2. 
 3. 
 
 <!-- ## Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
+### **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) --> 
 
