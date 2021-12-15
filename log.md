@@ -123,14 +123,20 @@ Started on [December 9, Thursday, 2021].
 ## Day 6: freecodecamp Applied Accessibility ?/22
 
 ### **Today's Progress**
-1. 
-2. 
-3. 
+1. Creativity with box-shadow.
+2. Put pseudo class selectors (::after&::before) into practice.
+3. Instructions on CSS animation.
 
 ### **For tomorrow's review**
-1. 
-2. 
-3. 
+1. Code this - [Moon](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-graphic-using-css)
+
+    ![](https://s2.loli.net/2021/12/15/BMbRu1fJUj75aOz.png)
+
+2. Code this - [Heart](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-more-complex-shape-using-css-and-html)
+
+    ![](https://s2.loli.net/2021/12/15/6seKxGhzdkw8F7t.png)
+
+3. Code this - [Pumping Heart](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count)
 
 ## Day 7: freecodecamp Applied Accessibility ?/22
 
