@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .moon {
+        width: 100px;
+        height: 100px;
+        box-shadow: 25px 10px 0 0 #fc0;
+        background-color: transparent;
+        border-radius: 50%;
+    }
+    .heart {
+        transform: rotate(-45deg);
+        margin: 0 auto;
+        width: 100px;
+        height: 100px;
+        background-color: #fcc;
+        position: relative;
+    }
+    .heart::before {
+        content:"";
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        background-color: #fcc;
+        transform: translate(0,-50%);
+        border-radius: 50%;
+    }
+    .heart::after {
+        content:"";
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        background-color: #fcc;
+        transform: translate(50%,0);
+        border-radius: 50%;
+    }
+</style>
+<body>
+    <div class="moon"></div>
+    <div class="heart"></div>
+</body>
+</html>
