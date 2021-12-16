@@ -20,7 +20,7 @@ Started on [December 9, Thursday, 2021].
     ```
 2. Code this
 
-    ![image-20211209181130008](https://s2.loli.net/2021/12/09/FB5kiEXswu4Gmgn.png)
+    ![image-20211209181130008](https://s2.loli.net/2021/12/09/FB5kiEXswu4Gmgn.png =400x100)
 
 ## Day 1: freecodecamp Basic CSS 31/44
 
@@ -71,7 +71,7 @@ Started on [December 9, Thursday, 2021].
 
 1. Code this - [Card](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element)
     
-    ![A Card](https://s2.loli.net/2021/12/11/h3WS5VmJdnAlyfH.png)
+    ![A Card](https://s2.loli.net/2021/12/11/h3WS5VmJdnAlyfH.png =200x300)
 
 ## Day 3: freecodecamp review
 
@@ -108,11 +108,11 @@ Started on [December 9, Thursday, 2021].
 5. Code this - [Linear Gradient](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-gradual-css-linear-gradient)
 6. CSS angle unit(full circle): 360deg, 1turn, ?rad, 400grad;
 
-    ![Gradient-coloring](https://s2.loli.net/2021/12/14/zfuKGZUebLDc7xg.png)
+    ![Gradient-coloring](https://s2.loli.net/2021/12/14/zfuKGZUebLDc7xg.png =150x250)
 
 6. Code this - [Striped Elem](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element)
 
-    ![Striped pattern](https://s2.loli.net/2021/12/14/ZRVnL3SHUjXTJ6i.png)
+    ![Striped pattern](https://s2.loli.net/2021/12/14/ZRVnL3SHUjXTJ6i.png =150x250)
 
 ## Day 5: freecodecamp Applied Visual Design 29/52
 
@@ -120,7 +120,7 @@ Started on [December 9, Thursday, 2021].
 
 1. Review what have been learnt so far.
 
-## Day 6: freecodecamp Applied Accessibility ?/22
+## Day 6: freecodecamp Applied Accessibility 42/22
 
 ### **Today's Progress**
 1. Creativity with box-shadow.
@@ -130,23 +130,25 @@ Started on [December 9, Thursday, 2021].
 ### **For tomorrow's review**
 1. Code this - [Moon](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-graphic-using-css)
 
-    ![](https://s2.loli.net/2021/12/15/BMbRu1fJUj75aOz.png)
+    ![](https://s2.loli.net/2021/12/15/BMbRu1fJUj75aOz.png =120x120)
 
 2. Code this - [Heart](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-more-complex-shape-using-css-and-html)
 
-    ![](https://s2.loli.net/2021/12/15/6seKxGhzdkw8F7t.png)
+    ![](https://s2.loli.net/2021/12/15/6seKxGhzdkw8F7t.png =120x100)
 
 3. Code this - [Pumping Heart](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count)
 
 ## Day 7: freecodecamp Applied Accessibility ?/22
 
 ### **Today's Progress**
-1. 
-2. 
-3. 
+1. Mimic animation-timing-function keywords using cubic-bezier()
+    See [cubic-bezier()](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-a-bezier-curve-to-move-a-graphic)
+2.  Use cubic-bezier() to stimulate the juggling ball.
+3.  How to get md pictures uniformly-sized?
+    See [Changing image size in markdown](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
 
 ### **For tomorrow's review**
-1. 
+1. Code [Juggling Balls](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-motion-more-natural-using-a-bezier-curve)
 2. 
 3. 
 ## Day 8: freecodecamp Applied Accessibility ?/22
