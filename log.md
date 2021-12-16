@@ -20,7 +20,7 @@ Started on [December 9, Thursday, 2021].
     ```
 2. Code this
 
-    ![image-20211209181130008](https://s2.loli.net/2021/12/09/FB5kiEXswu4Gmgn.png =400x100)
+    ![image-20211209181130008](https://s2.loli.net/2021/12/09/FB5kiEXswu4Gmgn.png)
 
 ## Day 1: freecodecamp Basic CSS 31/44
 
@@ -71,7 +71,7 @@ Started on [December 9, Thursday, 2021].
 
 1. Code this - [Card](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element)
     
-    ![A Card](https://s2.loli.net/2021/12/11/h3WS5VmJdnAlyfH.png =200x300)
+    <img alt="" src="https://s2.loli.net/2021/12/11/h3WS5VmJdnAlyfH.png" width="200" height="300">
 
 ## Day 3: freecodecamp review
 
@@ -108,11 +108,11 @@ Started on [December 9, Thursday, 2021].
 5. Code this - [Linear Gradient](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-gradual-css-linear-gradient)
 6. CSS angle unit(full circle): 360deg, 1turn, ?rad, 400grad;
 
-    ![Gradient-coloring](https://s2.loli.net/2021/12/14/zfuKGZUebLDc7xg.png =150x250)
+    <img alt="" src="https://s2.loli.net/2021/12/14/zfuKGZUebLDc7xg.png" width="150" height="250">
 
 6. Code this - [Striped Elem](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element)
 
-    ![Striped pattern](https://s2.loli.net/2021/12/14/ZRVnL3SHUjXTJ6i.png =150x250)
+    <img src="https://s2.loli.net/2021/12/14/ZRVnL3SHUjXTJ6i.png " width="150" height="250" alt="">
 
 ## Day 5: freecodecamp Applied Visual Design 29/52
 
@@ -130,11 +130,11 @@ Started on [December 9, Thursday, 2021].
 ### **For tomorrow's review**
 1. Code this - [Moon](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-graphic-using-css)
 
-    ![](https://s2.loli.net/2021/12/15/BMbRu1fJUj75aOz.png =120x120)
+    <img src="https://s2.loli.net/2021/12/15/BMbRu1fJUj75aOz.png" width="120" height="120" alt="">
 
 2. Code this - [Heart](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-more-complex-shape-using-css-and-html)
 
-    ![](https://s2.loli.net/2021/12/15/6seKxGhzdkw8F7t.png =120x100)
+    <img src="https://s2.loli.net/2021/12/15/6seKxGhzdkw8F7t.png" width="120" height="100">
 
 3. Code this - [Pumping Heart](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count)
 
