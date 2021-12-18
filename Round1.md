@@ -189,12 +189,11 @@ Started on [December 9, Thursday, 2021].
 1. Why do we need ```<time datetime=""></time>```?
 2. What's the use of accesskey?
 
-## Day 9: Responsive Web Design Principle ?/22
+## Day 9: Responsive Web Design Principle 4/4 + CSS Flex 3/17
 
 ### **Today's Progress**
 1. The use of @media to designate which style to present if the media query match.
 2. Have a try on an alternative CSS layout - flex.
-3. 
 
 ### **For tomorrow's review**
 1. Why these tow rules to make images responsive with CSS? [Answer](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-an-image-responsive)
@@ -207,7 +206,7 @@ Started on [December 9, Thursday, 2021].
 2. What's the difference between viewport units and percentages?
 3. Describe the four different viewport units. [Answer](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-typography-responsive)
 
-## Day 10: freecodecamp Applied Accessibility ?/22
+## Day 10: freecodecamp CSS Flex ?/17
 
 ### **Today's Progress**
 1. 
