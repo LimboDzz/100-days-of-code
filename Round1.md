@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Round 1
 
 The log of my #100DaysOfCode challenge. 
 Started on [December 9, Thursday, 2021].
@@ -184,23 +184,29 @@ Started on [December 9, Thursday, 2021].
 ### **Today's Progress**
 1. Supernoting with ```September 15<sup>th</sup>```
 2. HTML offers the **accesskey** attribute to specify a shortcut key to activate or bring focus to an element.
-3. 
 
 ### **For tomorrow's review**
 1. Why do we need ```<time datetime=""></time>```?
 2. What's the use of accesskey?
-3. 
-## Day 9: freecodecamp Applied Accessibility ?/22
+
+## Day 9: Responsive Web Design Principle ?/22
 
 ### **Today's Progress**
-1. 
-2. 
+1. The use of @media to designate which style to present if the media query match.
+2. Have a try on an alternative CSS layout - flex.
 3. 
 
 ### **For tomorrow's review**
-1. 
-2. 
-3. 
+1. Why these tow rules to make images responsive with CSS? [Answer](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-an-image-responsive)
+    ```css
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    ```
+2. What's the difference between viewport units and percentages?
+3. Describe the four different viewport units. [Answer](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-typography-responsive)
+
 ## Day 10: freecodecamp Applied Accessibility ?/22
 
 ### **Today's Progress**
