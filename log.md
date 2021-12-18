@@ -53,7 +53,7 @@ Started on [December 9, Thursday, 2021].
 
     **!important**>inline>id>class>tag>top-bottom order
 
-## Day2: freecodecamp Basic CSS 44/44 + Applied Visual Design 11/52
+## Day2: freecodecamp Applied Visual Design 11/52
 
 ### **Today's Progress**
 
@@ -120,7 +120,7 @@ Started on [December 9, Thursday, 2021].
 
 1. Review what have been learnt so far.
 
-## Day 6: freecodecamp Applied Accessibility 42/22
+## Day 6: freecodecamp Applied Visual Design 42/52
 
 ### **Today's Progress**
 1. Creativity with box-shadow.
@@ -138,29 +138,57 @@ Started on [December 9, Thursday, 2021].
 
 3. Code this - [Pumping Heart](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count)
 
-## Day 7: freecodecamp Applied Accessibility ?/22
+## Day 7: freecodecamp Applied Accessibility 13/22
 
 ### **Today's Progress**
 1. Mimic animation-timing-function keywords using cubic-bezier()
     See [cubic-bezier()](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-a-bezier-curve-to-move-a-graphic)
-2.  Use cubic-bezier() to stimulate the juggling ball.
-3.  How to get md pictures uniformly-sized?
+2. Use cubic-bezier() to stimulate the juggling ball.
+3. How to get md pictures uniformly-sized?
     See [Changing image size in markdown](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
+4. New features in HTML5.
+    - Sematic Markups
+        - fieldset and legend
+        - figure and figcaption
+        - ...
+    - ```<a href="mailto:?"></a>```
+    - Use cases of \<header\> and \<hgroup\>
+    - Meida play before HTML5 requires plugin.
+    - **Do not** abuse sematic tags. See [ill-ordered hgroup](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-headings-to-show-hierarchical-relationships-of-content)
+
+        ```html
+        <main>
+            <h2>Learn the Art of Moving Stealthily</h2>
+            <h5>How to Hide in Plain Sight</h5>
+            <h5>How to Climb a Wall</h5>
+
+            <h2>Learn the Art of Battle</h2>
+            <h5>How to Strengthen your Body</h5>
+            <h5>How to Fight like a Ninja</h5>
+
+            <h2>Learn the Art of Living with Honor</h2>
+            <h5>How to Breathe Properly</h5>
+            <h5>How to Simplify your Life</h5>
+        </main>
+        ```
 
 ### **For tomorrow's review**
 1. Code [Juggling Balls](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-motion-more-natural-using-a-bezier-curve)
-2. 
-3. 
-## Day 8: freecodecamp Applied Accessibility ?/22
+2. What's new about HTML5?
+3. Code this
+
+    <img alt="" src="https://s2.loli.net/2021/12/16/5vtLJPwmSeQ16Zn.png" width="300">
+
+## Day 8: freecodecamp Applied Accessibility 22/22
 
 ### **Today's Progress**
-1. 
-2. 
+1. Supernoting with ```September 15<sup>th</sup>```
+2. HTML offers the **accesskey** attribute to specify a shortcut key to activate or bring focus to an element.
 3. 
 
 ### **For tomorrow's review**
-1. 
-2. 
+1. Why do we need ```<time datetime=""></time>```?
+2. What's the use of accesskey?
 3. 
 ## Day 9: freecodecamp Applied Accessibility ?/22
 
@@ -266,3 +294,4 @@ Started on [December 9, Thursday, 2021].
 
     <img alt="" src="https://s2.loli.net/2021/12/14/qUhASpZLg6lY1js.png" width="400">
 
+2. Code this horizontal [progress bar](https://html.com/html5/) that gives a reading of how far you've been through the article.
