@@ -227,7 +227,9 @@ Started on [December 9, Thursday, 2021].
 3. 
 
 ### **For tomorrow's review**
-1. 
+1. Illustrate ```grid-template-columns: auto 50px 10% 2fr 1fr;```
+
+    This snippet creates five columns. The first column is as wide as its content, the second column is 50px, the third column is 10% of its container, and for the last two columns; the remaining space is divided into three sections, two are allocated for the fourth column, and one for the fifth.
 2. 
 3. 
 ## Day 12: freecodecamp Applied Accessibility ?/22
