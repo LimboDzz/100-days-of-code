@@ -206,18 +206,20 @@ Started on [December 9, Thursday, 2021].
 2. What's the difference between viewport units and percentages?
 3. Describe the four different viewport units. [Answer](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-typography-responsive)
 
-## Day 10: freecodecamp CSS Flex ?/17
+## Day 10: freecodecamp CSS Flex 17/17
 
 ### **Today's Progress**
-1. 
-2. 
-3. 
+1. More on Flex Layout.
 
 ### **For tomorrow's review**
-1. 
-2. 
-3. 
-## Day 11: freecodecamp Applied Accessibility ?/22
+1. Differentiate the six attrs of justify-content.
+2. Differentiate the five attrs of align-items.
+3. What are justify-content and align-items for?
+4. When does Flex Item shrink?
+    
+    Items shrink when the width of the parent container is smaller than the combined widths of all the flex items within it.
+
+## Day 11: freecodecamp CSS Grid ?/22
 
 ### **Today's Progress**
 1. 
