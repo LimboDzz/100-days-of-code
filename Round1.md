@@ -219,7 +219,19 @@ Started on [December 9, Thursday, 2021].
     
     Items shrink when the width of the parent container is smaller than the combined widths of all the flex items within it.
 
-## Day 11: freecodecamp CSS Grid ?/22
+## Day 11: freecodecamp CSS Flex 17/17+
+
+### **Today's Progress**
+1. Practice on Flex Layout.
+2. Game-aided Flexbox learning on [flexboxfroggy](https://flexboxfroggy.com/)
+
+### **For tomorrow's review**
+1. When to use the **order** property? And how to use it? [Answer](https://flexboxfroggy.com/)
+2. When to use the **align-self** property and how to use it?
+3. What's the shorthand for flex-direction and flex-wrap?
+4. Try again Challenge 24 on [flexboxfroggy](https://flexboxfroggy.com/)
+
+## Day 12: freecodecamp CSS Grid ?/22
 
 ### **Today's Progress**
 1. 
@@ -230,17 +242,6 @@ Started on [December 9, Thursday, 2021].
 1. Illustrate ```grid-template-columns: auto 50px 10% 2fr 1fr;```
 
     This snippet creates five columns. The first column is as wide as its content, the second column is 50px, the third column is 10% of its container, and for the last two columns; the remaining space is divided into three sections, two are allocated for the fourth column, and one for the fifth.
-2. 
-3. 
-## Day 12: freecodecamp Applied Accessibility ?/22
-
-### **Today's Progress**
-1. 
-2. 
-3. 
-
-### **For tomorrow's review**
-1. 
 2. 
 3. 
 ## Day 13: freecodecamp Applied Accessibility ?/22
