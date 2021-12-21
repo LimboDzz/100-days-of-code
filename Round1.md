@@ -231,6 +231,8 @@ Started on [December 9, Thursday, 2021].
 3. What's the shorthand for flex-direction and flex-wrap?
 4. Try again Challenge 24 on [flexboxfroggy](https://flexboxfroggy.com/)
 
+Take a day off on 2021-12-21
+
 ## Day 12: freecodecamp CSS Grid ?/22
 
 ### **Today's Progress**
