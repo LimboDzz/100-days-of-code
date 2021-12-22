@@ -237,7 +237,7 @@ Take a day off on 2021-12-21
 
 ### **Today's Progress**
 1. Reinforce my acquisiton of flexbox using codepip flexboxfroggy.
-2. Follow the instruction of the sourceress and get to know some basic incanations to summon html tag pairs.
+2. Follow the instruction of the sourceress and get to know some basic incantations to summon html tag pairs.
 
     <img src="https://s2.loli.net/2021/12/22/dvVRy9FmqoBcrDJ.png" width="300">
 
