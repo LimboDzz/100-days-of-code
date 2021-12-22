@@ -236,16 +236,13 @@ Take a day off on 2021-12-21
 ## Day 12: freecodecamp CSS Grid ?/22
 
 ### **Today's Progress**
-1. 
-2. 
-3. 
+1. Reinforce my acquisiton of flexbox using codepip flexboxfroggy.
+2. Follow the instruction of the sourceress and get to know some basic incanations to summon html tag pairs.
+
+    <img src="https://s2.loli.net/2021/12/22/dvVRy9FmqoBcrDJ.png" width="300">
 
 ### **For tomorrow's review**
-1. Illustrate ```grid-template-columns: auto 50px 10% 2fr 1fr;```
 
-    This snippet creates five columns. The first column is as wide as its content, the second column is 50px, the third column is 10% of its container, and for the last two columns; the remaining space is divided into three sections, two are allocated for the fourth column, and one for the fifth.
-2. 
-3. 
 ## Day 13: freecodecamp Applied Accessibility ?/22
 
 ### **Today's Progress**
@@ -254,7 +251,9 @@ Take a day off on 2021-12-21
 3. 
 
 ### **For tomorrow's review**
-1. 
+1. Illustrate ```grid-template-columns: auto 50px 10% 2fr 1fr;```
+
+    This snippet creates five columns. The first column is as wide as its content, the second column is 50px, the third column is 10% of its container, and for the last two columns; the remaining space is divided into three sections, two are allocated for the fourth column, and one for the fifth.
 2. 
 3. 
 ## Day 14: freecodecamp Applied Accessibility ?/22
