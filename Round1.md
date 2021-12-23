@@ -233,7 +233,7 @@ Started on [December 9, Thursday, 2021].
 
 Take a day off on 2021-12-21
 
-## Day 12: freecodecamp CSS Grid ?/22
+## Day 12: codepip Flexboxfroggy
 
 ### **Today's Progress**
 1. Reinforce my acquisiton of flexbox using codepip flexboxfroggy.
@@ -243,19 +243,19 @@ Take a day off on 2021-12-21
 
 ### **For tomorrow's review**
 
-## Day 13: freecodecamp Applied Accessibility ?/22
+## Day 13: codepip CSS Scoops
 
 ### **Today's Progress**
-1. 
-2. 
-3. 
+1. Mess around with CSS selectors and combinators.
 
 ### **For tomorrow's review**
-1. Illustrate ```grid-template-columns: auto 50px 10% 2fr 1fr;```
+1. What's the use of descentant/child/general sibling/adjacent sibling combinators?
+2. Name a few selectors.
 
-    This snippet creates five columns. The first column is as wide as its content, the second column is 50px, the third column is 10% of its container, and for the last two columns; the remaining space is divided into three sections, two are allocated for the fourth column, and one for the fifth.
-2. 
-3. 
+    type/id/class/pseudo-class/universal
+
+3. What's the difference between :is() and :where()?
+
 ## Day 14: freecodecamp Applied Accessibility ?/22
 
 ### **Today's Progress**
