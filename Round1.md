@@ -248,11 +248,13 @@ Take a day off on 2021-12-21
 ### **Today's Progress**
 1. Mess around with CSS selectors and combinators.
 
+    <img width="300" src="https://s2.loli.net/2021/12/23/pBlGQ8zivmRhqNA.png" alt="">
+
 ### **For tomorrow's review**
 1. What's the use of descentant/child/general sibling/adjacent sibling combinators?
 2. Name a few selectors.
 
-    type/id/class/pseudo-class/universal
+    type/id/class/pseudo-class/universal/attribute
 
 3. What's the difference between :is() and :where()?
 
