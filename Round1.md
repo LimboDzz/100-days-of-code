@@ -258,12 +258,16 @@ Take a day off on 2021-12-21
 
 3. What's the difference between :is() and :where()?
 
-## Day 14: freecodecamp Applied Accessibility ?/22
+## Day 14: codepip
 
 ### **Today's Progress**
-1. 
-2. 
-3. 
+1. [CSS Surgeon](https://codepip.com/games/css-surgeon/) accomplished.
+2. [Nth Cart](https://codepip.com/games/nth-cart/) accomplished.
+3. Find this [example.org](https://example.org/) while browsing mdn. It's used to exemplify how to nest another browsing context inside the current one with \<iframe\>.
+4. Learn about CSS counter. It's typically used as follows:
+    - counter-reset: countername;
+    - counter-increment: countername;
+    - content: counter(countername);
 
 ### **For tomorrow's review**
 1. 
