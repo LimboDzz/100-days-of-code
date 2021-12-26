@@ -314,9 +314,75 @@ Take a day off on 2021-12-21
 2. Change the regex favRegex to match both the American English (favorite) and the British English (favourite) version of the word.
 
     ```let favRegex = /favou?rite/;```
-    
+
 3. What's Lookaheads and why we need them?
 
+## Day 17: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+    
+## Day 18: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+    
+## Day 19: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+    
+## Day 20: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+    
+## Day 21: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+    
+## Day 22: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+    
+## Day 23: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+    
+## Day 24: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+    
+## Day 17: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+    
+## Day 17: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+    
+## Day 17: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+    
 <!-- ## Day 1: June 27, Monday
 
 ### **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
