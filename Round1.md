@@ -269,32 +269,53 @@ Take a day off on 2021-12-21
     - counter-increment: countername;
     - content: counter(countername);
 
-### **For tomorrow's review**
-1. 
-2. 
-3. 
-## Day 15: freecodecamp Applied Accessibility ?/22
+## Day 15: freecodecamp Regular Expression 22/33
 
 ### **Today's Progress**
-1. 
-2. 
-3. 
+1. In javascript, test() and match() are the functon-pair for the use of Regular Expression.
+    - test() return Boolean
+    - match() return Array (Null if not found)
+2. Regex literals come in the form of **/Regex/** + flags
+    - i - ignore cases
+    - g - global match
+3. Preliminary practice on wildcards.
+    - \+ - one or more occurance
+    - \* - zero or more occurance
+4. Regex uses greedy matching by default.
+5. Range matching by character set and the hyphen - combinator.
 
 ### **For tomorrow's review**
-1. 
-2. 
-3. 
-## Day 16: freecodecamp Applied Accessibility ?/22
+1. What's the two matching patterns in Regex?
+2. What's the closest character class in JavaScript to match the alphabet? And what does it match exactly?
+3. Try again [usernameCheck](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/restrict-possible-usernames)
+
+## Day 16: freecodecamp Regular Expression 33/33
 
 ### **Today's Progress**
-1. 
-2. 
+1. Difference between outline and border.
+    - Outline takes up no space.
+    - Outline may be non-rectangular?
+2. Get acquanted with escape sequences.
+    - \r: carriage return
+    - \n: new line
+    - \f: form feed
+    - \t: tab
+    - \v: vertical tab
 3. 
 
 ### **For tomorrow's review**
-1. 
-2. 
-3. 
+1. Why we shouldn't remove the default focus outline?
+
+    Defining focus to navigation elements is an **accessibility** requirement, it's clearly stated in the Web Content Accessibility Guidelines:
+
+    2.4.7 **Focus Visible**: Any keyboard operable user interface has a mode of operation where the keyboard focus indicator is visible. (Level AA)
+
+    This is especially useful for folks who can't use a mouse or have a visual impairment. If you remove the outline you are making your site inaccessible for these people.
+2. Change the regex favRegex to match both the American English (favorite) and the British English (favourite) version of the word.
+
+    ```let favRegex = /favou?rite/;```
+    
+3. What's Lookaheads and why we need them?
 
 <!-- ## Day 1: June 27, Monday
 
