@@ -317,12 +317,29 @@ Take a day off on 2021-12-21
 
 3. What's Lookaheads and why we need them?
 
-## Day 17: freecodecamp 
+* Take 2 days off.
+Start Day 17 on 2021-12-29
+
+## Day 17: codepip CSS Grid Garden 
 
 ### **Today's Progress**
+1. Grip the essense of CSS Grid.
+
+    <img alt="" src="https://s2.loli.net/2021/12/29/CIKP9WscwQefvBu.png" width="300">
+
+    - Shorthands like grid-template/grid-area
+2. Review on CSS Flexbox.
+
+    <img alt="" src="https://s2.loli.net/2021/12/29/tzdEvwVNQyfBPFG.png" width="300">
+
+3. Get down to the first project demanded for Responsive Web Design Certification.
+4. First challenge in Responsive Web Design accomplished.
+    
+    [Build a Tribute Page](https://codepen.io/limbodzz/pen/LYzQNWN)
 
 ### **For tomorrow's review**
-    
+1. Find some exercises pertaining Regex.
+
 ## Day 18: freecodecamp 
 
 ### **Today's Progress**
