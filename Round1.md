@@ -337,6 +337,8 @@ Start Day 17 on 2021-12-29
     
     [Build a Tribute Page](https://codepen.io/limbodzz/pen/LYzQNWN)
 
+    <img alt="" src="https://s2.loli.net/2021/12/29/pCPOAgj3JZlIWYB.png" width="700">
+
 ### **For tomorrow's review**
 1. Find some exercises pertaining Regex.
 
