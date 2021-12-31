@@ -301,7 +301,7 @@ Take a day off on 2021-12-21
     - \f: form feed
     - \t: tab
     - \v: vertical tab
-3. 
+
 
 ### **For tomorrow's review**
 1. Why we shouldn't remove the default focus outline?
@@ -342,26 +342,67 @@ Start Day 17 on 2021-12-29
 ### **For tomorrow's review**
 1. Find some exercises pertaining Regex.
 
-## Day 18: freecodecamp Data Visualization with D3 ?/29
+## Day 18: freecodecamp Data Visualization with D3 6/29
 
 ### **Today's Progress**
 1. D3 manipulates the document with APIs like d3.select()/selectAll()/text()...
 2. Done with all challenges in Flexbox Froggy Pro.
 
     <img alt="" src="https://s2.loli.net/2021/12/31/nuoFw5AHZtagBGP.png" width="300">
-3. 
 
 ### **For tomorrow's review**
 1. Review the nitty-gritties of D3.
 
     ```<script src="https://d3js.org/d3.v7.min.js"></script>```
     
-## Day 19: freecodecamp 
+## Day 19: freecodecamp D3 23/29 + Managing Packages with NPM 10/10
 
 ### **Today's Progress**
+1. Continue my study on D3. Learn how to use svg in D3 and illustrate the charts with tooltips using SVG title element.
+2. A hands-on practice on the 2 dimention coordinations x and y.
+3. Create my package.json in my project with the boilerplate information for any node package such as author, license, keywords (An array!), dependencies and version.
 
 ### **For tomorrow's review**
-    
+1. Code this bar chart.
+
+    <img alt="" src="https://s2.loli.net/2021/12/31/OVKB5LDgvIHoud9.png" width="300">
+
+    ```html
+    <body>
+    <script>
+        const dataset = [12, 31, 22, 17, 25, 18, 29, 14, 9];
+        const w = 500;
+        const h = 100;
+    </script>
+    </body>
+    ```
+2. Code this scatter spot.
+
+    <img alt="" src="https://s2.loli.net/2021/12/31/LxbpeqtmaNU3VPw.png" width="300">
+
+    ```html
+    <body>
+    <script>
+        const dataset = [
+                    [ 34,    78 ],
+                    [ 109,   280 ],
+                    [ 310,   120 ],
+                    [ 79,    411 ],
+                    [ 420,   220 ],
+                    [ 233,   145 ],
+                    [ 333,   96 ],
+                    [ 222,   333 ],
+                    [ 78,    320 ],
+                    [ 21,    123 ]
+                    ];
+
+
+        const w = 500;
+        const h = 500;
+
+    </script>
+    </body>
+    ```
 ## Day 20: freecodecamp 
 
 ### **Today's Progress**
