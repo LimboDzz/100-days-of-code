@@ -320,7 +320,7 @@ Take a day off on 2021-12-21
 * Take 2 days off.
 Start Day 17 on 2021-12-29
 
-## Day 17: codepip CSS Grid Garden 
+## Day 17: codepip CSS Grid Garden
 
 ### **Today's Progress**
 1. Grip the essense of CSS Grid.
@@ -342,11 +342,19 @@ Start Day 17 on 2021-12-29
 ### **For tomorrow's review**
 1. Find some exercises pertaining Regex.
 
-## Day 18: freecodecamp 
+## Day 18: freecodecamp Data Visualization with D3 ?/29
 
 ### **Today's Progress**
+1. D3 manipulates the document with APIs like d3.select()/selectAll()/text()...
+2. Done with all challenges in Flexbox Froggy Pro.
+
+    <img alt="" src="https://s2.loli.net/2021/12/31/nuoFw5AHZtagBGP.png" width="300">
+3. 
 
 ### **For tomorrow's review**
+1. Review the nitty-gritties of D3.
+
+    ```<script src="https://d3js.org/d3.v7.min.js"></script>```
     
 ## Day 19: freecodecamp 
 
