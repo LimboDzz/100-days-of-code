@@ -7,48 +7,37 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
     </head>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
+        <style>
+            .bar:hover {
+                fill: #fcc;
+            }
+        </style>
+        <script src="https://d3js.org/d3.v7.min.js"></script>
 
     <body>
-        <script>
-            const dataset = [
-                [34, 78],
-                [109, 280],
-                [310, 120],
-                [79, 411],
-                [420, 220],
-                [233, 145],
-                [333, 96],
-                [222, 333],
-                [78, 320],
-                [21, 123]
-            ];
+    <script>
+        const dataset = [
+                    [ 34,    78 ],
+                    [ 109,   280 ],
+                    [ 310,   120 ],
+                    [ 79,    411 ],
+                    [ 420,   220 ],
+                    [ 233,   145 ],
+                    [ 333,   96 ],
+                    [ 222,   333 ],
+                    [ 78,    320 ],
+                    [ 21,    123 ]
+                    ];
 
 
-            const w = 500;
-            const h = 500;
-            
-            let svg=d3.select("body").append("svg").attr("width",w).attr("height",h).style("background-color","#333");
+        const w = 500;
+        const h = 500;
+        
+        let svg=d3.select("body").append("svg").attr("width",w).attr("height",h).style("background-color","#333")
 
-            svg.selectAll("circle")
-               .data(dataset)
-               .enter()
-               .append("circle")
-               .attr("cx",d=>d[0])
-               .attr("cy",d=>h-d[1])
-               .attr("r",5)
-               .attr("fill","#eee")
-
-            svg.selectAll("text")
-               .data(dataset)
-               .enter()
-               .append("text")
-               .attr("x",d=>d[0]+10)
-               .attr("y",d=>h-d[1])
-               .attr("fill","#eee")
-               .text(d=>d[0]+", "+d[1])
-               
-        </script>
+        svg.selectAll("circle").data(dataset).enter()
+           .append("circle").attr("cx",d=>d[0]).attr("cy",d=>h-d[1]).attr("r",5).attr("fill","#eee").append("title").text(d=>d)
+    </script>
     </body>
 
 </html>

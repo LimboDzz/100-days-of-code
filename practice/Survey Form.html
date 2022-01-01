@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <script>
+    </script>
+    <style>
+        * {
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        :root {
+            background: url("https://s2.loli.net/2022/01/01/vRPycLiUEFTHbxg.jpg") 0 0 no-repeat;
+        }
+        form {
+            width: 800px;
+            background-color: #eee;
+            padding: 20px;
+            margin: 0 auto;
+        }
+        label {
+            display: block;
+        }
+    </style>
+    <body>
+        <div id="main">
+            <header>
+                <h1 id="title">freeCodeCamp Survey Form</h1>
+                <p id="description">Thank you for taking the time to help us improve the platform</p>
+            </header>
+            <form action="" id="survey-form">
+                <label for="name">Name</label><input type="text" name="name" id="name" placeholder="Enter your name">
+                <label for="email">Email</label><input type="email" name="email" id="email"
+                    placeholder="Enter your email">
+                <label for="number">Age</label>
+                <input type="number" name="age" min="1" max="200" id="number" placeholder="Age">
+                <label>Which option best describes your current role?</label>
+                <select id="dropdown" name="role">
+                    <option value="" disabled selected>Select current role</option>
+                    <option value="Student">Student</option>
+                    <option value="Teacher">Teahcer</option>
+                    <option value="Educator">Educator</option>
+                    <option value="Retired">Retired</option>
+                </select>
+
+            </form>
+        </div>
+    </body>
+
+</html>

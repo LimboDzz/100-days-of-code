@@ -406,6 +406,11 @@ Start Day 17 on 2021-12-29
 ## Day 20: freecodecamp 
 
 ### **Today's Progress**
+1. Exert myself on Project 2 - Survey Form.
+2. Renew my acquisition of Vim.
+    - Start a line with correct indentation by **Shift+S**
+    - Force indentation by **=+motion**
+    - Quick change surrounding tag or quotation marks by **cs[old][new]**
 
 ### **For tomorrow's review**
     
