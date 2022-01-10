@@ -14,9 +14,20 @@
             text-align: center;
             margin: 0;
             padding: 0;
+            color:#eee;
+            font-family: 'Courier New', Courier, monospace;
+            font-weight: bold;
         }
+
         :root {
             background: url("https://s2.loli.net/2022/01/01/vRPycLiUEFTHbxg.jpg") 0 0 no-repeat;
+            background-size: cover;
+        }
+        #main {
+            padding: 40px 0;
+        }
+        header {
+            padding: 40px 0;
         }
         form {
             width: 800px;
@@ -24,15 +35,63 @@
             padding: 20px;
             margin: 0 auto;
         }
+
         label {
             display: block;
         }
+
+        form {
+            line-height: 40px;
+            background-color: rgba(3, 3, 26, 0.5);
+        }
+        label {
+            width: 80%;
+            margin: 10px auto;
+            text-align: left;
+            font-size: 20px;
+        }
+        input,select,textarea,#submit {
+            width: 80%;
+            height: 40px;
+            text-align: left;
+            padding: 0 20px;
+            border-radius: 10px;
+            margin: 0 auto;
+            box-sizing: border-box;
+            background-color: #fff;
+            font-size: 20px;
+            color: #555;
+        }
+        input[type=checkbox],input[type=radio] 
+        {
+            width: 20px;
+            height: 20px;
+            margin: 0 10px;
+            line-height: 20px;
+        }
+        textarea {
+            height: 200px;
+            padding: 20px;
+        }
+        #submit {
+            display: block;
+            background-color:rgb(55, 175, 101);
+            color: #fff;
+            text-align: center;
+            height: 50px;
+            line-height: 50px;
+            margin: 20px auto;
+        }
+        input::placeholder {
+            color: #aaa;
+        }
     </style>
+
     <body>
         <div id="main">
             <header>
                 <h1 id="title">freeCodeCamp Survey Form</h1>
-                <p id="description">Thank you for taking the time to help us improve the platform</p>
+                <em id="description">Thank you for taking the time to help us improve the platform</em>
             </header>
             <form action="" id="survey-form">
                 <label for="name">Name</label><input type="text" name="name" id="name" placeholder="Enter your name">
@@ -41,14 +100,29 @@
                 <label for="number">Age</label>
                 <input type="number" name="age" min="1" max="200" id="number" placeholder="Age">
                 <label>Which option best describes your current role?</label>
-                <select id="dropdown" name="role">
-                    <option value="" disabled selected>Select current role</option>
-                    <option value="Student">Student</option>
-                    <option value="Teacher">Teahcer</option>
-                    <option value="Educator">Educator</option>
-                    <option value="Retired">Retired</option>
+                <select name="dropdown" id="dropdown">
+                    <option value="Select an option" selected disabled>Select an option</option>
+                    <option value="Challenges">Challenges</option>
+                    <option value="Projects">Projects</option>
+                    <option value="Community">Community</option>
+                    <option value="Open Source">Open Source</option>
                 </select>
-
+                <label>Would you recommend freeCodeCamp to a friend?</label>
+                <label for="Definitely"><input type="radio" name="recommend" id="Definitely"
+                        value="Definitely">Definitely</label>
+                <label for="Not Sure"><input type="radio" name="recommend" id="Not Sure" value="Not Sure">Not
+                    Sure</label>
+                <label for="Maybe"><input type="radio" name="recommend" id="Maybe" value="Maybe">Maybe</label>
+                <label>What would you like to see improved? <small>(Check all that apply)</small></label>
+                <label for="Front-end"><input type="checkbox" name="Improve" id="Front-end">Front-end Projects</label>
+                <label for="Back-end">
+                    <input type="checkbox" name="Improve" id="Back-end">Back-end Projects
+                </label>
+                <label for="Data"><input type="checkbox" name="Improve" id="Data">Data visualization</label>
+                <label for="Challenges"><input type="checkbox" name="Improve" id="Challenges">Challenges</label>
+                <label>Any comments or suggestions?</label>
+                <textarea name="comments" id="" cols="30" rows="10" placeholder="Enter your comment here..."></textarea>
+                <button type="submit" id="submit">Submit</button>
             </form>
         </div>
     </body>
