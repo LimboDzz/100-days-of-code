@@ -418,6 +418,9 @@ Start Day 17 on 2021-12-29
 
 ### **Today's Progress**
 1. Complete two challenges in the Responsive Web Design section.
+    - [Survey Form](https://codepen.io/limbodzz/pen/OJxBPKa)
+    - [Landing Page](https://codepen.io/limbodzz/pen/yLzREXY)
+
 2. Try to embed video src from bilibili into my html page using iframe and bilibili's API.
     
 ## Day 22: freecodecamp 
