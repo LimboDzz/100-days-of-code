@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #999;
+            display: flex;
+            justify-content: space-between;
+            position: fixed;
+            width: 100vw;
+        }
+
+        header img {
+            width: 550px;
+            height: 100px;
+            display: inline-block;
+        }
+
+        header nav {
+            display: flex;
+            justify-content: space-around;
+        }
+
+        nav a {
+            width: 200px;
+            text-align: center;
+            line-height: 100px;
+            font-weight: bold;
+            font-size: 30px;
+        }
+
+        nav a:hover {
+            background-color: #aaa;
+        }
+
+        a {
+            text-decoration: none;
+            color: #000;
+        }
+
+
+
+        #form {
+            text-align: center;
+            width: 70vw;
+            height: 200px;
+            margin: 0 auto;
+            padding-top: 150px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            align-items: center;
+        }
+
+        #form h2 {
+            font-size: 30px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        #form input {
+            height: 40px;
+            width: 300px;
+            padding: 0 10px;
+        }
+
+        #form button {
+            height: 50px;
+            ;
+            width: 150px;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 20px;
+            background-color: rgba(252, 235, 0, 0.822);
+        }
+
+        #features {
+            font-size: 20px;
+            line-height: 50px;
+            width: 50vw;
+            margin: 0 auto;
+            text-align: justify;
+        }
+
+        #video {
+            margin: 0 auto;
+            display: block;
+            height: 600px;
+            width: 1024px;
+        }
+
+        .uppercase {
+            text-transform: uppercase;
+        }
+
+        #pricing {
+            display: flex;
+            justify-content: space-between;
+            width: 1024px;
+            margin: 0 auto;
+        }
+
+        #pricing li {
+            border: #000 solid 1px;
+            list-style: none;
+            text-align: center;
+            flex: 1;
+            margin: 40px 10px;
+        }
+
+        li h3 {
+            background-color: #ddd;
+            height: 40px;
+            line-height: 40px;
+        }
+
+        #pricing button {
+            margin: 20px 0;
+            padding: 10px;
+        }
+
+        #pricing strong {
+            font-size: 30px;
+            display: block;
+            padding: 20px;
+        }
+
+        @media (max-width: 1050px) {
+            header {
+                flex-direction: column;
+            }
+
+            #features {
+                width: 90vw;
+            }
+
+            #pricing {
+                flex-direction: column;
+            }
+
+            #pricing li {
+                width: 100vw;
+                margin: 20px 0;
+            }
+
+            #form {
+                padding-top: 250px;
+            }
+
+            #video {
+                width: 600px;
+                height: 300px;
+            }
+        }
+    </style>
+
+    <body>
+        <main>
+            <header id="header">
+                <img src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png"
+                    alt="Logo" id="header-img">
+                <nav id="nav-bar">
+                    <a href="#features" class="nav-link">Features</a>
+                    <a href="#video" class="nav-link">How It Works</a>
+                    <a href="#pricing" class="nav-link">Pricing</a>
+                </nav>
+            </header>
+            <section id="main">
+                <form id="form" action="https://www.freecodecamp.com/email-submit">
+                    <h2>Handcrafted, home-made masterpieces</h2>
+                    <input type="email" name="email" id="email" placeholder="Enter your email address">
+                    <button type="submit" id="submit" class="uppercase">Get Started</button>
+                </form>
+                <div id="features">
+
+                    Premium Materials
+
+                    Our trombones use the shiniest brass which is sourced locally. This will increase the longevity of
+                    your purchase.
+                    Fast Shipping
+
+                    We make sure you recieve your trombone as soon as we have finished making it. We also provide free
+                    returns if you are not satisfied.
+                    Quality Assurance
+
+                    For every purchase you make, we will ensure there are no damages or faults and we will check and
+                    test the pitch of your instrument.
+
+                    Premium Materials
+
+                    Our trombones use the shiniest brass which is sourced locally. This will increase the longevity of
+                    your purchase.
+                    Fast Shipping
+
+                    We make sure you recieve your trombone as soon as we have finished making it. We also provide free
+                    returns if you are not satisfied.
+                    Quality Assurance
+
+                    For every purchase you make, we will ensure there are no damages or faults and we will check and
+                    test the pitch of your instrument.
+
+                    Premium Materials
+
+                    Our trombones use the shiniest brass which is sourced locally. This will increase the longevity of
+                    your purchase.
+                    Fast Shipping
+
+                    We make sure you recieve your trombone as soon as we have finished making it. We also provide free
+                    returns if you are not satisfied.
+                    Quality Assurance
+
+                    For every purchase you make, we will ensure there are no damages or faults and we will check and
+                    test the pitch of your instrument.
+
+                    Premium Materials
+
+                    Our trombones use the shiniest brass which is sourced locally. This will increase the longevity of
+                    your purchase.
+                    Fast Shipping
+
+                    We make sure you recieve your trombone as soon as we have finished making it. We also provide free
+                    returns if you are not satisfied.
+                    Quality Assurance
+
+                    For every purchase you make, we will ensure there are no damages or faults and we will check and
+                    test the pitch of your instrument.
+
+                </div>
+                <iframe src="https://player.bilibili.com/player.html?bvid=1MX4y1c71J&high-quality=1" id="video">
+                </iframe>
+                <ul id="pricing">
+                    <li>
+                        <h3 class="uppercase">tenor trombone</h3>
+                        <strong>$600</strong>
+                        <p>Lorem ipsum</p>
+                        <p>Lorem ipsum</p>
+                        <p>Lorem ipsum</p>
+                        <p>Lorem ipsum</p>
+                        <button class="uppercase">
+                            select
+                        </button>
+                    </li>
+                    <li>
+                        <h3 class="uppercase">tenor trombone</h3>
+                        <strong>$600</strong>
+                        <p>Lorem ipsum</p>
+                        <p>Lorem ipsum</p>
+                        <p>Lorem ipsum</p>
+                        <p>Lorem ipsum</p>
+                        <button class="uppercase">
+                            select
+                        </button>
+                    </li>
+                    <li>
+                        <h3 class="uppercase">tenor trombone</h3>
+                        <strong>$600</strong>
+                        <p>Lorem ipsum</p>
+                        <p>Lorem ipsum</p>
+                        <p>Lorem ipsum</p>
+                        <p>Lorem ipsum</p>
+                        <button class="uppercase">
+                            select
+                        </button>
+                    </li>
+                </ul>
+            </section>
+            <footer></footer>
+        </main>
+    </body>
+
+</html>

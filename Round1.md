@@ -412,13 +412,13 @@ Start Day 17 on 2021-12-29
     - Force indentation by **=+motion**
     - Quick change surrounding tag or quotation marks by **cs[old][new]**
 
-### **For tomorrow's review**
+## Take a 11-day break...
     
 ## Day 21: freecodecamp 
 
 ### **Today's Progress**
-
-### **For tomorrow's review**
+1. Complete two challenges in the Responsive Web Design section.
+2. Try to embed video src from bilibili into my html page using iframe and bilibili's API.
     
 ## Day 22: freecodecamp 
 
