@@ -454,6 +454,10 @@ Start Day 17 on 2021-12-29
     const h = 500;
     const padding = 60;
     ```
+
+2. Code the scattered plot with Axes.
+
+    <img alt="with Axes" src="https://s2.loli.net/2022/01/12/gHBXVUedyMsR45w.png" width="400">
     
 ## Day 23: freecodecamp 
 
