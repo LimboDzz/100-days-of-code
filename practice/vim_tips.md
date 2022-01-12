@@ -1,0 +1,16 @@
+
+- SHIFT 相当于移动加速键， w b e 移动光标很慢，但是 W B E 
+- 自己要善于总结新技巧，比如移动到行首非空字符时用 0w 命令比 ^ 命令更容易输入走的很快
+- 插入模式下，当你发现一个单词写错了，应该多用 CTRL-W 这比 <BackSpace> 快
+- c d x 命令会自动填充寄存器 "1 到 "9 , y 命令会自动填充 "0 寄存器
+- 用 v 命令选择文本时，可以用 o 掉头选择，有时很有用
+- cit：这个比较特殊，可以直接编辑匹配的 xml 标签中的内容！经常编写 html 的童鞋可以熟悉一下。
+- yi"：yank inside " 猜猜是啥意思？类似ci"只是把编辑操作编程复制操作，因为y是复制！是不是很强大。
+- u、Ctrl+r：undo 和 redo
+- :StartADD，EndADDd：删除从StartADD开始至EndADD的所有文字；d表示删除
+- :StartADD，EndADDw 路径：把从StartADD开始至EndADD的所有文字另存到另一个文件中去；w表示写
+- :r 路径 ：把文件读入当前光标位置
+- :qa quit all
+- ga go ascii hex and oct
+- xp swap 2 letter
+- gUU guu swap case for a line
