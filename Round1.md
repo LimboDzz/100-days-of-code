@@ -423,11 +423,37 @@ Start Day 17 on 2021-12-29
 
 2. Try to embed video src from bilibili into my html page using iframe and bilibili's API.
     
-## Day 22: freecodecamp 
+## Day 22: freecodecamp Data Visualization with D3 29/29
 
 ### **Today's Progress**
+1. Complete the Documentation challenge in the Responsive Web Design section.
+    - [Documentation Page](https://codepen.io/limbodzz/pen/yLzQVBd)
+
+2. Continue and complete my study on D3.
 
 ### **For tomorrow's review**
+1. Code this modified plot.
+
+    <img alt="modified plot" src="https://s2.loli.net/2022/01/12/wfhclRiVkMCb8HS.png" width="400">
+
+    ```js
+    const dataset = [
+        [ 34,     78 ],
+        [ 109,   280 ],
+        [ 310,   120 ],
+        [ 79,   411 ],
+        [ 420,   220 ],
+        [ 233,   145 ],
+        [ 333,   96 ],
+        [ 222,    333 ],
+        [ 78,    320 ],
+        [ 21,   123 ]
+    ];
+
+    const w = 500;
+    const h = 500;
+    const padding = 60;
+    ```
     
 ## Day 23: freecodecamp 
 
