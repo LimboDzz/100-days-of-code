@@ -459,12 +459,29 @@ Start Day 17 on 2021-12-29
 
     <img alt="with Axes" src="https://s2.loli.net/2022/01/12/gHBXVUedyMsR45w.png" width="400">
     
-## Day 23: freecodecamp 
+## Day 23: freecodecamp JSON APIs and AJAX 10/10 + Data Visualization Projects 1/5
 
 ### **Today's Progress**
+1. Learn XMLHttpRequest and fetch.
+2. Review how to draw a scattered plot with axes.
+3. Finish the [BAR CHART]() project in this section. 
+
+    <img alt="bar chart" src="">
 
 ### **For tomorrow's review**
+1. Code this.
+
+    <img alt="json.Foreach" src="https://s2.loli.net/2022/01/13/3ckp1UwRMLuQeDn.png" width="400">
     
+    ```js
+    const req = new XMLHttpRequest();
+    req.open("GET",'/json/cats.json',true);
+    ```
+2. Code this.
+
+    <img alt="geolocation" src="https://s2.loli.net/2022/01/13/lf5LmkOoqYrHBMW.png" width="200">
+
+    [HINT](https://www.freecodecamp.org/learn/data-visualization/json-apis-and-ajax/get-geolocation-data-to-find-a-users-gps-coordinates)
 ## Day 24: freecodecamp 
 
 ### **Today's Progress**
@@ -505,3 +522,6 @@ Start Day 17 on 2021-12-29
     <img alt="" src="https://s2.loli.net/2021/12/14/qUhASpZLg6lY1js.png" width="400">
 
 2. Code this horizontal [progress bar](https://html.com/html5/) that gives a reading of how far you've been through the article.
+3. Code this [Countdown catty](https://easycattimer.com/)
+
+    <img alt="countdown catty" src="https://s2.loli.net/2022/01/12/F27hqDvuLol3fKj.png" width="500">
