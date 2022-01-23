@@ -412,7 +412,7 @@ Start Day 17 on 2021-12-29
     - Force indentation by **=+motion**
     - Quick change surrounding tag or quotation marks by **cs[old][new]**
 
-## Take a 11-day break...
+* Take a 11-day break...
     
 ## Day 21: freecodecamp 
 
@@ -482,9 +482,20 @@ Start Day 17 on 2021-12-29
     <img alt="geolocation" src="https://s2.loli.net/2022/01/13/lf5LmkOoqYrHBMW.png" width="200">
 
     [HINT](https://www.freecodecamp.org/learn/data-visualization/json-apis-and-ajax/get-geolocation-data-to-find-a-users-gps-coordinates)
+
+* Take several days off.
+Start Day 24 on 2021-1-23
+
 ## Day 24: freecodecamp 
 
 ### **Today's Progress**
+1. The discrepancy between remainder operator and modulus operator.
+    - JavaScript uses % for remainder operation.
+    - Your clock on the wall is a basic mod 12.
+    - More info in [mod-and-remainder](https://rob.conery.io/2018/08/21/mod-and-remainder-are-not-the-same/).
+2. Escape sequences help out with characters that are normally untypeable or deemed as a functional identifier.
+3. Covert your obj to a lookup list in place of if/else or switch. 
+- [Using Objects for Lookups](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/using-objects-for-lookups)
 
 ### **For tomorrow's review**
     

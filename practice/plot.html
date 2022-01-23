@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+
+    <body>
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+        <script>
+            const url = "https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json";
+            // const getData=(url)=>{
+            //     const req=new XMLHttpRequest();
+            //     req.open("GET",url,true);
+            //     req.onload=()=>{
+            //         const json=JSON.parse(req.responseText);
+            //         return JSON.stringify(json);
+            //     }
+            //     req.send();
+            // }
+
+            // console.log(getData(url));
+            const scale = (domain, range) => d3.scaleLinear().domain(domain).range(range);
+            const ttn=(t)=>{
+                const [mm,ss]=t.split(":");
+                return ToNumber()
+            }
+            window.onload = async () => {
+                const json = await fetch(url).then(data => data.json());
+                console.log(json);
+
+                const w = 1600, h = 900, padding = 100;
+                const svg = d3.select("body").append("svg")
+                    .attr("width", w)
+                    .attr("height", h)
+                    .style("box-shadow", "0 0 10px 0 #000")
+
+                const xScale = scale([d3.min(json, d => d.Year), d3.max(json, d => d.Year)], [0, w]);
+                const yScale = scale([d3.min(json, d => d.Time), d3.max(json, d => d.Time)], [0, h]);
+                svg.selectAll("circle").data(json).enter().append("circle")
+                    .attr("cx", d => xScale(d.Year))
+                    .attr("cy", d => yScale(d.Time))
+                    .attr("r", 5)
+            }
+
+        </script>
+    </body>
+
+</html>
