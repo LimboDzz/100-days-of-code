@@ -502,6 +502,11 @@ Start Day 24 on 2021-1-23
 ## Day 17: freecodecamp 
 
 ### **Today's Progress**
+1. Object.hasOwnProperty().
+2. Recursive Function.
+3. Math.random()
+    - Math.floor(Math.random()*range): [0,range-1]
+    - Math.floor(Math.random()*(max-min+1))+min: [min.max]
 
 ### **For tomorrow's review**
     
