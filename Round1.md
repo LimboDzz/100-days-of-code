@@ -497,9 +497,7 @@ Start Day 24 on 2021-1-23
 3. Covert your obj to a lookup list in place of if/else or switch. 
 - [Using Objects for Lookups](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/using-objects-for-lookups)
 
-### **For tomorrow's review**
-    
-## Day 17: freecodecamp 
+## Day 25: freecodecamp 
 
 ### **Today's Progress**
 1. Object.hasOwnProperty().
@@ -508,20 +506,69 @@ Start Day 24 on 2021-1-23
     - Math.floor(Math.random()*range): [0,range-1]
     - Math.floor(Math.random()*(max-min+1))+min: [min.max]
 
-### **For tomorrow's review**
+## Day 26: freecodecamp 
+
+### **Today's Progress**
+1. Start my journey on Nodejs automation/scraping.
+    - process.argv.slice(2)
+2. Discern the difference between __document.addEventListener(DOMContentLoaded, Handler)__ and __window.onload=handler__.
     
-## Day 17: freecodecamp 
+## Day 27: freecodecamp 
 
 ### **Today's Progress**
 
 ### **For tomorrow's review**
     
-## Day 17: freecodecamp 
+## Day 27: freecodecamp 
 
 ### **Today's Progress**
 
 ### **For tomorrow's review**
-    
+## Day 27: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+## Day 27: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+## Day 27: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+## Day 27: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+## Day 27: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+## Day 27: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+## Day 27: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+## Day 27: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
+## Day 27: freecodecamp 
+
+### **Today's Progress**
+
+### **For tomorrow's review**
 <!-- ## Day 1: June 27, Monday
 
 ### **Today's Progress**: I've gone through many exercises on FreeCodeCamp.

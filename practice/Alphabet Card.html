@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <style>
+        body {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+
+        a {
+            display: block;
+            color: #666;
+            padding: 10px 0;
+        }
+
+        .card {
+            text-align: justify;
+            padding: 10px;
+            width: 200px;
+            box-shadow: 5px 5px 10px 0 rgb(216, 216, 216), -5px 5px 10px 0 rgb(216, 216, 216);
+            height: 260px
+        }
+
+        .underlined {
+            text-decoration: underline;
+        }
+
+        .strong {
+            font-weight: bold;
+        }
+
+        h1 {
+            text-align: center;
+            text-transform: capitalize;
+            background-color: #eee;
+        }
+
+        .gradient {
+            background: linear-gradient(35deg, #ffc, #cff)
+        }
+
+        .striped {
+            background: repeating-linear-gradient(35deg, yellow 0, yellow 30px, black 30px, black 60px)
+        }
+
+        .pumping {
+            animation-name: pumping;
+            animation-duration: .5s;
+            animation-iteration-count: infinite;
+        }
+
+        @keyframes pumpingPseudo {
+            30% {
+                background-color: #f99;
+            }
+        }
+        @keyframes pumping {
+            30% {
+                transform: translate(-50%, -50%) rotate(50grad) scale(1.2);
+                background-color: #f99;
+            }
+        }
+
+        .heart {
+            width: 50px;
+            height: 50px;
+            background-color: #fcc;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) rotate(50grad);
+        }
+
+        .heart::after {
+            display: block;
+            content: "";
+            background-color: #fcc;
+            width: 50px;
+            height: 50px;
+            position: absolute;
+            transform: translate(-50%);
+            border-radius: 50%;
+            animation-name: pumpingPseudo;
+            animation-duration: .5s;
+            animation-iteration-count: infinite;
+        }
+
+        .heart::before {
+            display: block;
+            content: "";
+            background-color: #fcc;
+            width: 50px;
+            height: 50px;
+            position: absolute;
+            transform: translate(0, -50%);
+            border-radius: 50%;
+            animation-name: pumpingPseudo;
+            animation-duration: .5s;
+            animation-iteration-count: infinite;
+        }
+
+        .relative {
+            position: relative;
+        }
+    </style>
+
+    <body>
+        <div class="card">
+            <h1>alphabet</h1>
+            <hr>
+            <p>
+                Google was founded by Larry Page and Sergey Brin while they were <em class="underlined">Ph.D
+                    students</em> at <em class="strong">Stanford University</em>.
+            </p>
+            <a href="#">Larry Page</a><a href="#">Sergey Brin</a>
+        </div>
+        <div class="card gradient"></div>
+        <div class="card striped"></div>
+        <div class="card relative">
+            <div class="pumping heart"></div>
+        </div>
+    </body>
+
+</html>
